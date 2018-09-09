@@ -17,7 +17,7 @@
 ## X-Category: Miscellaneous
 ## X-Website: https://github.com/funkydude/SharedMedia_Noto
 ## X-License: All Rights Reserved: You are free to fork and modify on GitHub, please ask us about anything else.
-## X-Curse-Project-ID: 302641
+## X-Curse-Project-ID: 302642
 ## OptionalDeps: LibSharedMedia-3.0
 ## X-Embeds: LibSharedMedia-3.0
 
