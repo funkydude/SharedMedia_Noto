@@ -4,4 +4,5 @@
 * Please note CJK languages (CN, TW, KR) are NOT currently supported!
 
 ## Download
-<https://www.curseforge.com/wow/addons/sharedmedia_noto>
+* <https://www.curseforge.com/wow/addons/sharedmedia_noto>
+* <https://addons.wago.io/addons/sharedmedia-noto>
