@@ -1,7 +1,7 @@
-## Interface: 11506, 11507, 20504, 30404, 40402, 40401, 50500, 110105, 110107, 110100
+## Interface: 11508, 11507, 20505, 30405, 38000, 40402, 50503, 50502, 110201, 110207, 110200
 ## Version: @project-version@
 ## Title: SharedMedia_Noto
-## Author: Funkydude
+## Author: Funkeh
 ## Notes: Add the Noto fonts to SharedMedia addons.
 ## Notes-esES: Add the Noto fonts to SharedMedia addons.
 ## Notes-esMX: Add the Noto fonts to SharedMedia addons.
